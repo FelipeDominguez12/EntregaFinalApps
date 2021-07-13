@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">change</string>
+    <string name="nombre_del_regalador">Nombre del Regalador</string>
+    <string name="nombre">nombre</string>
+    <string name="nombre_del_receptor">Nombre del Receptor</string>
+    <string name="nombre">nombre</string>
+    <string name="revolver">Revolver</string>
+    <string name="orden">Orden</string>
+    <string name="resultados">Resultados</string>
+    <string name="nombre">nombre</string>
+    <string name="nombre">nombre</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="revolver">Revolver</string>
+    <string name="resultado">Resultado</string>
+</resources>
